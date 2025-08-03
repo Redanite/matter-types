@@ -1,7 +1,7 @@
 --!native
 --!optimize 2
 
-local Archetype = require(script.Parent.Archetype)
+local Archetype = require(script.Parent.archetype)
 local Component = require(script.Parent.component)
 local topoRuntime = require(script.Parent.topoRuntime)
 
